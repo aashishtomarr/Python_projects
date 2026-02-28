@@ -35,3 +35,26 @@ $$WPM = \frac{\text{Correct Words}}{\text{Time in Seconds} / 60}$$
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/aashishtomarr/Python-Projects-Hub.git](https://github.com/aashishtomarr/Python-Projects-Hub.git)
+2. Navigate to a project folder:
+
+   Bash
+   cd Typing-Speed-Calculator
+3. Run the script:
+
+   Bash
+   python typing_test.py
+   Note: For the QR Code Generator, you will need to install dependencies:
+   pip install qrcode[pil]
+
+📈 Learning Journey
+This repository tracks my progress in Python. Through these projects, I have mastered:
+
+Standard library modules (time, textwrap, random, datetime).
+
+Data structures (Lists, Dictionaries).
+
+Error handling and input validation.
+
+Git workflow and project organization.
+
+Contact: Aashish - aashishtomar102@gmail.com - https://www.linkedin.com/in/tomaraashish
